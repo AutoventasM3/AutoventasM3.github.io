@@ -29,13 +29,13 @@ const autoData = {
     // 3. Imágenes para la galería
     // Asegúrate de que las rutas a las imágenes sean correctas
     imagenes: [
-        { src: "/assets/Ktm/01.webp", thumb: "/assets/ktm/thumbs/1.webp", alt: "Jeep Wranfler 2014 foto 1" },
-        { src: "/assets/Ktm/02.webp", thumb: "/assets/ktm/thumbs/2.webp",alt: "Jeep Wranfler 2014 foto 2" },
-        { src: "/assets/Ktm/03.webp", thumb: "/assets/ktm/thumbs/3.webp",alt: "Jeep Wranfler 2014 foto 3" },
-        { src: "/assets/Ktm/04.webp", thumb: "/assets/ktm/thumbs/4.webp",alt: "Jeep Wranfler 2014 foto 4" },
-        { src: "/assets/Ktm/05.webp", thumb: "/assets/ktm/thumbs/5.webp",alt: "Jeep Wranfler 2014 foto 5" },
-        { src: "/assets/Ktm/06.webp", thumb: "/assets/ktm/thumbs/6.webp",alt: "Jeep Wranfler 2014 foto 6" },
-        { src: "/assets/Ktm/07.webp", thumb: "/assets/ktm/thumbs/7.webp",alt: "Jeep Wranfler 2014 foto 7" },
+        { src: "/assets/ktm/01.webp", thumb: "/assets/ktm/thumbs/1.webp", alt: "Jeep Wranfler 2014 foto 1" },
+        { src: "/assets/ktm/02.webp", thumb: "/assets/ktm/thumbs/2.webp",alt: "Jeep Wranfler 2014 foto 2" },
+        { src: "/assets/ktm/03.webp", thumb: "/assets/ktm/thumbs/3.webp",alt: "Jeep Wranfler 2014 foto 3" },
+        { src: "/assets/ktm/04.webp", thumb: "/assets/ktm/thumbs/4.webp",alt: "Jeep Wranfler 2014 foto 4" },
+        { src: "/assets/ktm/05.webp", thumb: "/assets/ktm/thumbs/5.webp",alt: "Jeep Wranfler 2014 foto 5" },
+        { src: "/assets/ktm/06.webp", thumb: "/assets/ktm/thumbs/6.webp",alt: "Jeep Wranfler 2014 foto 6" },
+        { src: "/assets/ktm/07.webp", thumb: "/assets/ktm/thumbs/7.webp",alt: "Jeep Wranfler 2014 foto 7" },
         
     ],
 
