@@ -768,9 +768,14 @@ section, .inventario-destacado, .inventario-listado, .sobre-nosotros, .contacto 
     color: var(--negro);
 }
 
+.card-label.nuevo {
+    background: #39f101e2;
+    color: var(--negro);
+}
+
 .card-label.vendido{
     background: rgb(255, 85, 0);
-    color: var(--white);
+    color: var(--negro);
       }
 .auto-card h3 {
     font-size: 1.15rem;

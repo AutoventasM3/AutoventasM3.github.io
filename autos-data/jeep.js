@@ -22,7 +22,6 @@ const autoData = {
         { icono: "fa-solid fa-users", texto: "Capacidad para 5 pasajeros" },
 
         { icono: "fa-solid fa-tools", texto: "Suspension Fox" },
-        { icono: "fa-brands fa-apple", texto: "Apple CarPlay" },
         { icono: "fa-brands fa-android", texto: "Sonido premium con Pantalla Android" },
         { icono: "fa-solid fa-snowflake", texto: "Aire Acondicionado" },
         { icono: "fa-solid fa-lightbulb", texto: "Neblineras con Interruptores individuales" },

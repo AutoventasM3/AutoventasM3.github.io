@@ -33,7 +33,7 @@ const autoData = {
         { src: "/assets/mazda 2019/06.webp", thumb: "/assets/mazda 2019/thumbs/06.webp",alt: "Jeep Wranfler 2014 foto 6" },
         { src: "/assets/mazda 2019/07.webp", thumb: "/assets/mazda 2019/thumbs/07.webp",alt: "Jeep Wranfler 2014 foto 7" },
         { src: "/assets/mazda 2019/08.webp", thumb: "/assets/mazda 2019/thumbs/08.webp", alt: "Jeep Wranfler 2014 foto 8" },
-        { src: "/assets/mazda 2019/09.webp", thumb: "/assets/mazda 2019/thumbs/09.webp", alt: "Jeep Wranfler 2014 foto 8" },
+        { src: "/assets/mazda 2019/10.webp", thumb: "/assets/mazda 2019/thumbs/10.webp", alt: "Jeep Wranfler 2014 foto 8" },
         
         
     ],
