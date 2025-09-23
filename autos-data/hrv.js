@@ -24,15 +24,15 @@ const autoData = {
     // 3. Imágenes para la galería
     // Asegúrate de que las rutas a las imágenes sean correctas
     imagenes: [
-        { src: "/assets/hrv/1.webp", thumb:  "/assets/hrv/thumbs/01.webp", alt: "Jeep Wranfler 2014 foto 1" },
-        { src: "/assets/hrv/2.webp", thumb:  "/assets/hrv/thumbs/2.webp", alt: "Jeep Wranfler 2014 foto 2" },
-        { src: "/assets/hrv/3.webp", thumb:  "/assets/hrv/thumbs/3.webp", alt: "Jeep Wranfler 2014 foto 3" },
-        { src: "/assets/hrv/4.webp", thumb:  "/assets/hrv/thumbs/4.webp", alt: "Jeep Wranfler 2014 foto 4" },
-        { src: "/assets/hrv/5.webp", thumb:  "/assets/hrv/thumbs/5.webp", alt: "Jeep Wranfler 2014 foto 5" },
-        { src: "/assets/hrv/6.webp", thumb:  "/assets/hrv/thumbs/6.webp", alt: "Jeep Wranfler 2014 foto 6" },
-        { src: "/assets/hrv/7.webp", thumb:  "/assets/hrv/thumbs/7.webp", alt: "Jeep Wranfler 2014 foto 7" },
-        { src: "/assets/hrv/8.webp", thumb:  "/assets/hrv/thumbs/8.webp", alt: "Jeep Wranfler 2014 foto 8" },
-        { src: "/assets/hrv/9.webp", thumb:  "/assets/hrv/thumbs/9.webp", alt: "Jeep Wranfler 2014 foto 8" },
+        { src: "/assets/HRV/1.webp", thumb:  "/assets/HRV/thumbs/01.webp", alt: "Jeep Wranfler 2014 foto 1" },
+        { src: "/assets/HRV/2.webp", thumb:  "/assets/HRV/thumbs/2.webp", alt: "Jeep Wranfler 2014 foto 2" },
+        { src: "/assets/HRV/3.webp", thumb:  "/assets/HRV/thumbs/3.webp", alt: "Jeep Wranfler 2014 foto 3" },
+        { src: "/assets/HRV/4.webp", thumb:  "/assets/HRV/thumbs/4.webp", alt: "Jeep Wranfler 2014 foto 4" },
+        { src: "/assets/HRV/5.webp", thumb:  "/assets/HRV/thumbs/5.webp", alt: "Jeep Wranfler 2014 foto 5" },
+        { src: "/assets/HRV/6.webp", thumb:  "/assets/HRV/thumbs/6.webp", alt: "Jeep Wranfler 2014 foto 6" },
+        { src: "/assets/HRV/7.webp", thumb:  "/assets/HRV/thumbs/7.webp", alt: "Jeep Wranfler 2014 foto 7" },
+        { src: "/assets/HRV/8.webp", thumb:  "/assets/HRV/thumbs/8.webp", alt: "Jeep Wranfler 2014 foto 8" },
+        { src: "/assets/HRV/9.webp", thumb:  "/assets/HRV/thumbs/9.webp", alt: "Jeep Wranfler 2014 foto 8" },
     
        
     ],
