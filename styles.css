@@ -800,6 +800,36 @@ section, .inventario-destacado, .inventario-listado, .sobre-nosotros, .contacto 
     margin-top: 0.4rem;
     text-align: center;
 }
+
+.precios-oferta {
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 0.4rem;
+}
+
+/* 1. ESTILO DEL PRECIO ANTERIOR (Tachado) */
+.precio-anterior {
+    /* Color: Más discreto, como gris, para no competir */
+    color: #a0a0a0; /* Gris claro */
+    font-size: 1rem; /* Más pequeño que el precio actual */
+    font-weight: 500;
+    /* La magia del tachado */
+    text-decoration: line-through;
+    margin: 0; /* Elimina márgenes extra */
+    line-height: 1.2;
+}
+
+/* 2. ESTILO DEL PRECIO ACTUAL (Oferta) */
+.precio-actual {
+    /* El precio debe ser el más grande y llamativo */
+    color: var(--amarillo-principal); /* O el amarillo de tu botón */
+    /* o usa un color de alerta, como el rojo: color: #E74C3C; */
+    
+    font-size: 1.8rem; /* ¡Mucho más grande! */
+    font-weight: 900; /* Extra bold */
+    margin: 0; /* Elimina márgenes extra */
+    line-height: 1.2;
+}
 .btn-card {
     background: var(--amarillo);
     color: var(--negro);
