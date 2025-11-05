@@ -6,7 +6,7 @@ const autoData = {
     // 2. Ficha Técnica
     // Cada objeto en este array es una línea de la ficha.
      fichaTecnica: [
-        { icono: "fa-solid fa-tags", texto: "91,500" }, // Deja este para que puedas poner el precio real.
+        { icono: "fa-solid fa-tags", texto: "88,000" }, // Deja este para que puedas poner el precio real.
         { icono: "fa-solid fa-calendar-days", texto: "2013" },
         { icono: "fa-solid fa-gauge-high", texto: "170,000 millas" }, // Coloca el kilometraje real
         { icono: "fa-solid fa-palette", texto: "Rojo (Intenso)" }, // Asumo un rojo vibrante por ser un color que resalta.

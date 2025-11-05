@@ -6,7 +6,7 @@ const autoData = {
     // 2. Ficha Técnica
     // Cada objeto en este array es una línea de la ficha.
     fichaTecnica: [
-        { icono: "fa-solid fa-tags", texto: "Q. 99,900" },
+        { icono: "fa-solid fa-tags", texto: "Q. 95,000" },
         { icono: "fa-solid fa-calendar-days", texto: "2019" },
         { icono: "fa-solid fa-gauge-high", texto: "84,000 millas" }, // Ejemplo de kilometraje
         { icono: "fa-solid fa-palette", texto: "Gris" }, // Ejemplo de color
